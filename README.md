@@ -12,8 +12,6 @@ npm install
 npm start
 ```
 
-## HELLO WORLD
-
 ## Docker
 
 ```sh
